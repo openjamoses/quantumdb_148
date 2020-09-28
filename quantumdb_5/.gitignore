@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+*.log
+*.log.gz
+*.db
+*.iml
+target/
+bin/
+
+.quantumdb
